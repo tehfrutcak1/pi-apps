@@ -5,8 +5,8 @@
 ## How to use my superior version of pi-apps:
 1. Download sourcecode via browser or `git clone`
 2. `cd` into directory
-3. `chmod +x compile.sh`
-4. `sh compile.sh`, `./compile.sh`, or `compile.sh`
+3. `gcc source.c -o pi-apps`
+4 `./pi-apps`
 5. Done! You now have access to a whole universe of software! This tool also **teaches** you *much more* about how to be resourceful and use Linux than the original pi-apps!!!
 
 ## If you don't know how to do any of these steps:
